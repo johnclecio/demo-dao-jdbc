@@ -12,7 +12,7 @@ public class Program {
 
         Seller seller = new Seller(21, "John", "john@gmail.com", new Date(), 3000.0, obj );
 
-       
+
 
         System.out.println(seller);
 
